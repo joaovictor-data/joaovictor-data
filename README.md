@@ -53,11 +53,11 @@ Sou apaixonado por tecnologia, tenho estudado ferramentas de **análise de dados
 
 ### 📫 Contato
 
-<p align="left">
-  <a href="jvoliveiratr@gmail.com">
-    <img width="40" height="40" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
+<div>
+  <a href="mailto:jvoliveiratr@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
+</div>
 
 ---
 
