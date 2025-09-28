@@ -17,7 +17,7 @@ Sou apaixonado por tecnologia, tenho estudado ferramentas de **análise de dados
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias que estou estudando
 
 <p align="left">
   <img align="left" alt="Python" title="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
